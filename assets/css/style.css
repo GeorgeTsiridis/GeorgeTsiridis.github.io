@@ -1,20 +1,21 @@
 .btn-color {
-  background-color: #0ba4f0 !important;
-  border-color: #0ba4f0 !important;
+  background-color: #c06 !important;
+  border-color: #c06 !important;
 }
 .btn-color:hover {
-  background-color: #011925 !important;
+  background-color: #0ba4f0 !important;
+  border-color:  #0ba4f0 !important;
 }
 
 .color{
-  color:#0ba4f0 !important;
+  color:#c06 !important;
 }
 .color:hover {
-  background-color: #011925 !important;
+   color: #0ba4f0 !important;  /*011925 */
 }
 
 .icon-color{
-  color:#0ba4f0 !important;
+  color: #c06 !important;
   margin-right: 10%;
 }
 
