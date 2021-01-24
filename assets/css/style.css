@@ -3,20 +3,31 @@
   border-color: #c06 !important;
 }
 .btn-color:hover {
-  background-color: #0ba4f0 !important;
-  border-color:  #0ba4f0 !important;
+  background-color: rgb(119, 1, 60) !important;
+  border-color:  rgb(119, 1, 60) !important;
 }
 
 .color{
   color:#c06 !important;
 }
 .color:hover {
-   color: #0ba4f0 !important;  /*011925 */
+   color: rgb(119, 1, 60) !important;  /*011925 */
 }
 
 .icon-color{
   color: #c06 !important;
   margin-right: 10%;
+}
+
+@media(max-width: 780px) {
+  .icon-color {
+    margin-right: 4%;
+  }
+}
+
+.card-icon{
+  color: white;
+  margin-top: -25% !important;
 }
 
 .tim-row {
