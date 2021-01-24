@@ -6939,7 +6939,8 @@ License - nucleoapp.com/license/
 }
 
 .section-dark {
-  background-color: #0b1011;
+  /* background-color: #0b1011; */
+  background-color: #c06;
 }
 
 .section-image,
