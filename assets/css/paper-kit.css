@@ -3233,7 +3233,7 @@ blockquote small {
 }
 
 .heart {
-  color: #EB5E28;
+  color: #c06;
   animation: heathing 1s ease infinite;
 }
 
@@ -3443,7 +3443,7 @@ input[type="file"]>input[type="button"]::-moz-focus-inner {
 }
 
 .heart {
-  color: #EB5E28;
+  color: #c06;
   animation: heathing 1s ease infinite;
 }
 
@@ -5856,7 +5856,7 @@ License - nucleoapp.com/license/
 }
 
 .footer .heart {
-  color: #EB5E28;
+  color: #c06;
 }
 
 .footer {
@@ -6724,7 +6724,7 @@ License - nucleoapp.com/license/
 }
 
 .register-footer .fa-heart {
-  color: #EB5E28;
+  color: #c06;
 }
 
 .register-card label {
