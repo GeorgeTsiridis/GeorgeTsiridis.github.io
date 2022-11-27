@@ -3,6 +3,8 @@ The Film Society Club
 
 Angular Project working with a 3rd-Party API (https://www.omdbapi.com/) for searching Movies!
 
+You can see a live version of the page here: https://georgetsiridis.github.io/
+
 Run nmp install to install all the necessary depedencies.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6 (Node V16.13.0).
