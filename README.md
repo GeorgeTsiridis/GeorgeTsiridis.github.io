@@ -1,7 +1,7 @@
 # film-society-club
 The Film Society Club
 
-Angular Project working with a 3rd-Party API (http://www.omdbapi.com/) for searching Movies!
+Angular Project working with a 3rd-Party API (https://www.omdbapi.com/) for searching Movies!
 
 Run nmp install to install all the necessary depedencies.
 
